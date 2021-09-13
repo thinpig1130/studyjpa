@@ -13,7 +13,7 @@ public class JpaMain {
         tx.begin();
 
         try{
-//            /** 새로운 Member 저장 **/
+            /** 새로운 Member 저장 **/
 //            Member member = new Member();
 //            member.setId(4L);
 //            member.setName("HelloA");
