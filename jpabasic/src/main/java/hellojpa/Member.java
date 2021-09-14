@@ -4,8 +4,13 @@ import javax.persistence.*;
 import java.util.Date;
 
 @Entity
+@SequenceGenerator(
+        name="MEMBER_SEQ_GENERATOR",
+        sequenceName = "MEMBER_SEQ",
+        initialValue = 1, allocationSize = 50)
 public class Member {
-    @Id
+    @Id @GeneratedValue(strategy = GenerationType.SEQUENCE,
+            generator = "MEMBER_SEQ_GENERATOR")
     private Long id;
     @Column(name = "name")
     private String username;
@@ -20,6 +25,14 @@ public class Member {
     private String description;
     @Transient
     private int temp;
+
+    public Member() {
+    }
+
+    public Member(String username, Integer age) {
+        this.username = username;
+        this.age = age;
+    }
 
     public Long getId() {
         return id;
