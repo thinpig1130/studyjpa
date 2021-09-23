@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf024e70-ffc9-4a34-8058-2c8451be5dac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/JpaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jpql/src/main/resources/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Delivery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jpabook/jpashop/domain/OrderItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Delivery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Delivery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jpabook/jpashop/domain/OrderItem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +108,7 @@
       <workItem from="1631659800559" duration="669000" />
       <workItem from="1631662355660" duration="11447000" />
       <workItem from="1631746524292" duration="10369000" />
+      <workItem from="1631835956296" duration="1860000" />
     </task>
     <servers />
   </component>
